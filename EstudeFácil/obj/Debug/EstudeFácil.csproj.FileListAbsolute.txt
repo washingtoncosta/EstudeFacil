@@ -1,0 +1,22 @@
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\EstudeFácil\EstudeFácil\bin\Debug\EstudeFácil.exe.config
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\EstudeFácil\EstudeFácil\bin\Debug\EstudeFácil.exe
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\EstudeFácil\EstudeFácil\bin\Debug\EstudeFácil.pdb
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\EstudeFácil\EstudeFácil\obj\Debug\EstudeFácil.csprojResolveAssemblyReference.cache
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\EstudeFácil\EstudeFácil\obj\Debug\EstudeFácil.Explicacao.resources
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\EstudeFácil\EstudeFácil\obj\Debug\EstudeFácil.Form1.resources
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\EstudeFácil\EstudeFácil\obj\Debug\EstudeFácil.Properties.Resources.resources
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\EstudeFácil\EstudeFácil\obj\Debug\EstudeFácil.csproj.GenerateResource.Cache
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\EstudeFácil\EstudeFácil\obj\Debug\EstudeFácil.exe
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\EstudeFácil\EstudeFácil\obj\Debug\EstudeFácil.pdb
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\EstudeFácil\EstudeFácil\obj\Debug\EstudeFácil.Topicos.resources
+C:\Users\daan_\Google Drive\GitHub\EstudeFacil\EstudeFácil\bin\Debug\EstudeFácil.exe.config
+C:\Users\daan_\Google Drive\GitHub\EstudeFacil\EstudeFácil\obj\Debug\EstudeFácil.exe
+C:\Users\daan_\Google Drive\GitHub\EstudeFacil\EstudeFácil\obj\Debug\EstudeFácil.pdb
+C:\Users\daan_\Google Drive\GitHub\EstudeFacil\EstudeFácil\bin\Debug\EstudeFácil.exe
+C:\Users\daan_\Google Drive\GitHub\EstudeFacil\EstudeFácil\bin\Debug\EstudeFácil.pdb
+C:\Users\daan_\Google Drive\GitHub\EstudeFacil\EstudeFácil\obj\Debug\EstudeFácil.csprojResolveAssemblyReference.cache
+C:\Users\daan_\Google Drive\GitHub\EstudeFacil\EstudeFácil\obj\Debug\EstudeFácil.Explicacao.resources
+C:\Users\daan_\Google Drive\GitHub\EstudeFacil\EstudeFácil\obj\Debug\EstudeFácil.Form1.resources
+C:\Users\daan_\Google Drive\GitHub\EstudeFacil\EstudeFácil\obj\Debug\EstudeFácil.Properties.Resources.resources
+C:\Users\daan_\Google Drive\GitHub\EstudeFacil\EstudeFácil\obj\Debug\EstudeFácil.Topicos.resources
+C:\Users\daan_\Google Drive\GitHub\EstudeFacil\EstudeFácil\obj\Debug\EstudeFácil.csproj.GenerateResource.Cache
